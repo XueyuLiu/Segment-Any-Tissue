@@ -4,7 +4,7 @@
 
 ## Overview
 <p align="center">
-<img width="800" alt="structure" src="img/Display.png">
+<img width="800" alt="eg" src="img/Display.png">
 </p>
 
 ##  Description
