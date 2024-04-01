@@ -1,4 +1,4 @@
-# AutoPromptMedSAM: One-Shot Reference Guided Training-Free Prompt Engineering for Universal Medical Image Segmentation
+# APMedSAM: One-Shot Reference Guided Training-Free Prompt Engineering for Universal Medical Image Segmentation
 <br>[Xueyu Liu](https://scholar.google.com.hk/citations?user=jeatLqIAAAAJ&hl=zh-CN), Guangze Shi, Rui Wang, Yexin Lai, Jianan Zhang, Xinyu Wang, Weixia Han, Ming Li, Xiaoshuang Zhou, Yongfei Wu*, Chen Wang and Wen Zheng.<br>
 
 
