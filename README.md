@@ -1,6 +1,9 @@
 # AP-MedSAM: One-Shot Reference Guided Training-Free Prompt Engineering for Universal Medical Image Segmentation
 <br>**[Xueyu Liu](https://scholar.google.com.hk/citations?user=jeatLqIAAAAJ&hl=zh-CN), Guangze Shi, Rui Wang, Yexin Lai, Jianan Zhang, Xinyu Wang, Weixia Han, Ming Li, Xiaoshuang Zhou, Yongfei Wu*, Chen Wang, and Wen Zheng.**<br>
 
+<sup>1</sup>[Taiyuan University of Technology](https://www.zju.edu.cn/english/), &nbsp;
+<sup>2</sup>[The Second Affiliated Hospital of Shanxi Medical University](https://www.sydey.com/)
+
 
 ## Overview
 <p align="center">
