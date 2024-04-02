@@ -1,10 +1,26 @@
-# AP-MedSAM: One-Shot Reference Guided Training-Free Prompt Engineering for Universal Medical Image Segmentation
-<br>**[Xueyu Liu](https://scholar.google.com.hk/citations?user=jeatLqIAAAAJ&hl=zh-CN), Guangze Shi, Rui Wang, Yexin Lai, Jianan Zhang, Xinyu Wang, Weixia Han, Ming Li, Xiaoshuang Zhou, Yongfei Wu*, Chen Wang, and Wen Zheng.**<br>
+<div align="center">
+
+<h1> AP-MedSAM: One-Shot Reference Guided Training-Free Prompt Engineering for Universal Medical Image Segmentation </h1>
+
+[Xueyu Liu]([https://scholar.google.com/citations?user=9JcQ2hwAAAAJ&hl=en](https://scholar.google.com.hk/citations?user=jeatLqIAAAAJ&hl=zh-CN))<sup>1*</sup>, &nbsp; 
+Guangze Shi<sup>1</sup>, &nbsp; 
+Rui Wang<sup>1</sup>, &nbsp; 
+Yexin Lai<sup>1</sup>, &nbsp; 
+Jianan Zhang<sup>1</sup>, &nbsp; 
+Xinyu Wang<sup>2</sup>, &nbsp;
+Weixia Han<sup>2</sup>, &nbsp;
+Ming Li<sup>1</sup>, &nbsp;
+Xiaoshuang Zhou<sup>3</sup>, &nbsp;
+Yonfei Wu<sup>1*</sup>, &nbsp;
+Chen Wang<sup>2</sup>, &nbsp;
+Wen Zheng<sup>1</sup>
+
 
 <sup>1</sup>[Taiyuan University of Technology](https://www.tyut.edu.cn/), &nbsp;
 <sup>2</sup>[The Second Affiliated Hospital of Shanxi Medical University](https://www.sydey.com/)， &nbsp;
 <sup>3</sup>[Shanxi Provincial People's Hospital](https://www.sxsrmyy.com/)
 
+</div>
 
 ## Overview
 <p align="center">
