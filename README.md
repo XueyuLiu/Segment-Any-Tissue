@@ -19,4 +19,4 @@ In the field of medical imaging, AI-driven technologies have historically faced 
 
 
 ## Acknowledgement
-Thanks [DINOv2](https://github.com/facebookresearch/dinov2), [SAM](https://github.com/facebookresearch/segment-anything), [Matcher](https://github.com/aim-uofa/Matcher), [GBMSeg](https://github.com/SnowRain510/GBMSeg). for serving as building blocks of GBMSeg.
+Thanks [DINOv2](https://github.com/facebookresearch/dinov2), [SAM](https://github.com/facebookresearch/segment-anything), [GBMSeg](https://github.com/SnowRain510/GBMSeg). for serving as building blocks of APMedSAM.
