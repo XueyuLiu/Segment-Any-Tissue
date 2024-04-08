@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1> AP-MedSAM: One-Shot Reference Guided Training-Free Prompt Engineering for Universal Medical Image Segmentation </h1>
+<h1> Segment Any Tissue: One-Shot Reference Guided Training-Free Dual-Attribute Prompting for Universal Medical Image Segmentation </h1>
 
 [Xueyu Liu]([https://scholar.google.com/citations?user=9JcQ2hwAAAAJ&hl=en](https://scholar.google.com.hk/citations?user=jeatLqIAAAAJ&hl=zh-CN))<sup>1</sup>, &nbsp; 
 Guangze Shi<sup>1</sup>, &nbsp; 
